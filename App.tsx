@@ -5,8 +5,8 @@ import RevealFrame from './components/RevealFrame';
 const App: React.FC = () => {
   // Image A: Base identity (Matt Murdock - The Masked/Initial layer)
   // Image B: Revealed identity (Daredevil - The hidden layer revealed by cursor)
-  const imageA = "/Image/Image A.jpg";
-  const imageB = "/Image/Image B.jpg";
+  const imageA = "/Image/Image A.webp";
+  const imageB = "/Image/Image B.webp";
 
   return (
     <div className="h-screen w-full flex flex-col bg-zinc-950 overflow-hidden">
