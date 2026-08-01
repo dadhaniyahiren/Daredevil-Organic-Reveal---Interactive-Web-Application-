@@ -1,0 +1,5 @@
+
+{
+  "name": "Organic Hover Reveal",
+  "description": "A high-performance React component featuring a fluid, organic hover-reveal effect between two images using SVG masking and Framer Motion for elastic inertia."
+}
